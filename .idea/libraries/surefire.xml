@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="surefire" type="repository">
+    <properties maven-id="surefire:surefire:1.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/surefire-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-utils-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
