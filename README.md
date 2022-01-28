@@ -1,11 +1,11 @@
 # Introduction
 
-Repository for the "Same Game" project. It's composed of a model and two view as well as two controllers to manage the
+Repository for the "Same Game" project. It's composed of a model and two views as well as two controllers to manage the
 game.
 
 # Demo
 
-A demo can be found at the following URL : https://drive.google.com/file/d/1QDnOzorCq4E37AbRMVh9LYgZnlFbsubs/view
+Here is a demo of the game in action: 
 
 # Structure
 
