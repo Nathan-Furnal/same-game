@@ -144,7 +144,7 @@ public class Facade implements Observable {
      * as the stack is not empty, it's possible to undo actions going from the most recent, to the most distant in time.
      */
     public void undo() {
-        if(!commandManager.isEmptyUndo()) {
+        if (!commandManager.isEmptyUndo()) {
             commandManager.undo();
             state = State.UNDO;
             notifyObservers();
@@ -156,7 +156,7 @@ public class Facade implements Observable {
      * the stack is not cleared by a player action, it's possible to redo past undoes, from the most recent to the oldest.
      */
     public void redo() {
-        if(!commandManager.isEmptyRedo()) {
+        if (!commandManager.isEmptyRedo()) {
             commandManager.redo();
             state = State.REDO;
             notifyObservers();

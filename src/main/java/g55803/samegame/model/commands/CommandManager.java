@@ -37,11 +37,11 @@ public class CommandManager {
         }
     }
 
-    public boolean isEmptyUndo(){
+    public boolean isEmptyUndo() {
         return undoHistory.isEmpty();
     }
 
-    public boolean isEmptyRedo(){
+    public boolean isEmptyRedo() {
         return redoHistory.isEmpty();
     }
 }
