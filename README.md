@@ -1,7 +1,7 @@
 # Introduction
 
 Repository for the "Same Game" project. It's composed of a model and two views as well as two controllers to manage the
-game.
+game. Written in Java and JavaFX for the UI.
 
 # Demo
 
