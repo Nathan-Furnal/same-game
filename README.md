@@ -125,3 +125,7 @@ A GUI for the game. Most of the focus is with state management and listening to 
 Both controllers are meant to orchestrate the view(s) with the model while providing a measure of safety by checking
 methods arguments, states and catching exceptions when possible. 
 
+
+# Credits
+
+Project devised and created during my studies at the École Supérieure d'Informatique (ESI), Brussels.
